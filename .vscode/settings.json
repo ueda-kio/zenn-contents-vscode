@@ -1,0 +1,8 @@
+{
+	"pasteImage.basePath": "${currentFileDir}/..",
+	"pasteImage.insertPattern": "${imageSyntaxPrefix}/${imageFilePath}${imageSyntaxSuffix}",
+	"pasteImage.path": "${currentFileDir}/../images/${currentFileNameWithoutExt}",
+	"[markdown]": {
+		"editor.formatOnSave": false,
+	}
+}

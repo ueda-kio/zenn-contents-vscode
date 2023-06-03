@@ -1,0 +1,12 @@
+{
+  "name": "zenn-contents",
+  "version": "1.0.0",
+  "description": "",
+  "license": "ISC",
+  "scripts": {
+    "start": "npx zenn new:article"
+  },
+  "dependencies": {
+    "zenn-cli": "^0.1.143"
+  }
+}
